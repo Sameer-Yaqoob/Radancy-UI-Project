@@ -1,0 +1,18 @@
+{
+  "BankAccounts":{
+    "value":{
+      "data":[
+        {
+          "accountHolderName": "testing",
+          "accountNumber": "123456789",
+          "accountType": "Default",
+          "ifscCode": "2345",
+          "branchName": "ABC",
+          "balance": 1948,
+          "id": 2
+        }
+      ]
+    }
+  }
+}
+
